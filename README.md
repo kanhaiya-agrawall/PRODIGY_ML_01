@@ -34,8 +34,11 @@ We use the trained model to make predictions on the test dataset. We then conver
 
 # File Organization
 train.csv: Train dataset containing historical data on house prices and features.
+
 test.csv: Test dataset containing features for which we need to predict house prices.
+
 submission.csv: Submission file containing predicted house prices for the test dataset.
+
 README.md: Markdown file containing information about the project.
 
 Clone this repository to your local machine.
