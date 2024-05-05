@@ -8,12 +8,13 @@ The goal of this project is to develop a model that can accurately predict housi
 # Libraries
 To run the code in this repository, you'll need Python 3.x along with the following libraries:
 
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
-Data Preprocessing
+NumPy, 
+Pandas, 
+Scikit-learn, 
+Matplotlib, 
+Seaborn, 
+Data Preprocessing.
+
 We start by reading the train and test datasets using Pandas. We then perform data preprocessing steps, including:
 
 Handling missing values: We impute missing values for numeric features with the mean and for categorical features with the most frequent value.
