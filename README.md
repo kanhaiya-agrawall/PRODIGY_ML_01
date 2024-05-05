@@ -19,8 +19,11 @@ Seaborn.
 We start by reading the train and test datasets using Pandas. We then perform data preprocessing steps, including:
 
 Handling missing values: We impute missing values for numeric features with the mean and for categorical features with the most frequent value.
+
 Encoding categorical features: We use OneHotEncoder to encode categorical features into numerical values.
+
 Standardizing numeric features: We standardize numeric features to ensure they have a mean of 0 and a standard deviation of 1.
+
 Dimensionality reduction: We reduce the dimensionality of the dataset using Principal Component Analysis (PCA) to improve computational efficiency while preserving most of the variance in the data.
 
 # Model Training
