@@ -14,7 +14,7 @@ Scikit-learn,
 Matplotlib, 
 Seaborn.
 
-# Data Preprocessin
+# Data Preprocessing
 
 We start by reading the train and test datasets using Pandas. We then perform data preprocessing steps, including:
 
