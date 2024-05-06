@@ -1,6 +1,7 @@
 # PRODIGY_ML_01
 # Housing Price Prediction
 This repository contains code for predicting housing prices using machine learning technique.
+(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 Overview
 The goal of this project is to develop a model that can accurately predict housing prices based on various features such as location, size, number of bedrooms, etc.
